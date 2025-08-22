@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lumberjack Bee - Pomadas Naturais</title>
+    <!-- Inclui a fonte Oswald para o título, que tem uma pegada old school -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Inclui a fonte Montserrat para o texto geral, que é moderna e limpa -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap" rel="stylesheet">
+    <!-- Inclui Tailwind CSS para estilização rápida e responsiva -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Define as fontes personalizadas */
+        .font-oswald {
+            font-family: 'Oswald', sans-serif;
+        }
+
+        .font-montserrat {
+            font-family: 'Montserrat', sans-serif;
+        }
+
+        /* Estilo para a animação do botão */
+        .btn-hover-black:hover {
+            background-color: #000000;
+            color: #FFD700;
+            border-color: #FFD700;
+        }
+    </style>
+</head>
+
+<body class="bg-black text-white font-montserrat">
+
+    <!-- Hero Banner -->
+    <header class="h-screen flex items-center justify-center text-center px-4"
+        style="background-color: #000000;">
+        <div class="relative z-10">
+            <!-- Logo da abelha, centralizada -->
+            <img src="imagens\logoAbelha1.jpeg" alt="Lumberjack Bee Logo" class="mx-auto w-36 mb-6">
+            <!-- Título principal com a fonte "old school" -->
+            <h1 class="font-oswald text-5xl sm:text-7xl md:text-8xl text-yellow-500 uppercase leading-none mb-4 tracking-wide"
+                style="color: #FFD700;">
+                Lumberjack Bee
+            </h1>
+            <!-- Subtexto com a fonte moderna -->
+            <p class="text-lg sm:text-xl md:text-2xl text-yellow-500 font-medium mb-8"
+                style="color: #FFD700;">
+                Pomada Capilar e Para Barba 100% Natural
+            </p>
+            <!-- Botão com efeito hover personalizado -->
+            <a href="#" class="inline-block px-8 py-3 rounded-full text-black font-semibold uppercase transition-colors duration-300"
+                style="background-color: #FFD700; border: 2px solid #FFD700;">
+                Comprar Agora
+            </a>
+        </div>
+    </header>
+
+    <!-- Sessão 1 – Compromisso da Marca -->
+    <section class="py-16 px-4 md:px-16 lg:px-24" style="background-color: #000000;">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center text-yellow-500"
+            style="color: #FFD700;">
+            <!-- Ícone e texto para Cera de Abelha -->
+            <div class="flex flex-col items-center">
+                <span class="text-4xl mb-2">🐝</span>
+                <p class="text-sm sm:text-base">Feito com cera de abelha</p>
+            </div>
+            <!-- Ícone e texto para Natural -->
+            <div class="flex flex-col items-center">
+                <span class="text-4xl mb-2">🍃</span>
+                <p class="text-sm sm:text-base">100% natural, sem químicos</p>
+            </div>
+            <!-- Ícone e texto para Hidratação -->
+            <div class="flex flex-col items-center">
+                <span class="text-4xl mb-2">💧</span>
+                <p class="text-sm sm:text-base">Hidrata e fortalece</p>
+            </div>
+            <!-- Ícone e texto para Proteção -->
+            <div class="flex flex-col items-center">
+                <span class="text-4xl mb-2">🛡️</span>
+                <p class="text-sm sm:text-base">Protege e não agride a pele</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sessão 2 – Produtos em Destaque -->
+    <section class="py-16 px-4 md:px-16 lg:px-24" style="background-color: #000000;">
+        <h2 class="text-4xl sm:text-5xl font-oswald text-center text-yellow-500 uppercase mb-12"
+            style="color: #FFD700;">
+            Nossas Pomadas
+        </h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-8">
+            <!-- Card do produto - Traditional -->
+            <div class="bg-zinc-900 rounded-lg overflow-hidden flex flex-col items-center p-6 text-center shadow-lg">
+                <img src="https://placehold.co/300x300/18181b/FFD700?text=Traditional" alt="Lumberjack Bee Traditional"
+                    class="w-full h-auto object-cover rounded-lg mb-4">
+                <h3 class="text-xl font-oswald text-yellow-500" style="color: #FFD700;">Traditional</h3>
+                <p class="text-sm text-white mb-4">Mel & Baunilha de Madagascar</p>
+                <a href="#" class="text-yellow-500 border border-yellow-500 rounded-full px-6 py-2 text-sm uppercase transition-colors duration-300 hover:bg-yellow-500 hover:text-black"
+                    style="border-color: #FFD700; color: #FFD700;">
+                    Ver Produto
+                </a>
+            </div>
+            <!-- Card do produto - Mentolyc -->
+            <div class="bg-zinc-900 rounded-lg overflow-hidden flex flex-col items-center p-6 text-center shadow-lg">
+                <img src="https://placehold.co/300x300/18181b/FFD700?text=Mentolyc" alt="Lumberjack Bee Mentolyc"
+                    class="w-full h-auto object-cover rounded-lg mb-4">
+                <h3 class="text-xl font-oswald text-yellow-500" style="color: #FFD700;">Mentolyc</h3>
+                <p class="text-sm text-white mb-4">Melaleuca & Alecrim</p>
+                <a href="#" class="text-yellow-500 border border-yellow-500 rounded-full px-6 py-2 text-sm uppercase transition-colors duration-300 hover:bg-yellow-500 hover:text-black"
+                    style="border-color: #FFD700; color: #FFD700;">
+                    Ver Produto
+                </a>
+            </div>
+            <!-- Card do produto - Black Honey -->
+            <div class="bg-zinc-900 rounded-lg overflow-hidden flex flex-col items-center p-6 text-center shadow-lg">
+                <img src="https://placehold.co/300x300/18181b/FFD700?text=Black+Honey" alt="Lumberjack Bee Black Honey"
+                    class="w-full h-auto object-cover rounded-lg mb-4">
+                <h3 class="text-xl font-oswald text-yellow-500" style="color: #FFD700;">Black Honey</h3>
+                <p class="text-sm text-white mb-4">Jojoba, Alecrim & Gengibre</p>
+                <a href="#" class="text-yellow-500 border border-yellow-500 rounded-full px-6 py-2 text-sm uppercase transition-colors duration-300 hover:bg-yellow-500 hover:text-black"
+                    style="border-color: #FFD700; color: #FFD700;">
+                    Ver Produto
+                </a>
+            </div>
+            <!-- Card do produto - Old School -->
+            <div class="bg-zinc-900 rounded-lg overflow-hidden flex flex-col items-center p-6 text-center shadow-lg">
+                <img src="https://placehold.co/300x300/18181b/FFD700?text=Old+School" alt="Lumberjack Bee Old School"
+                    class="w-full h-auto object-cover rounded-lg mb-4">
+                <h3 class="text-xl font-oswald text-yellow-500" style="color: #FFD700;">Old School</h3>
+                <p class="text-sm text-white mb-4">Gengibre & Lavanda</p>
+                <a href="#" class="text-yellow-500 border border-yellow-500 rounded-full px-6 py-2 text-sm uppercase transition-colors duration-300 hover:bg-yellow-500 hover:text-black"
+                    style="border-color: #FFD700; color: #FFD700;">
+                    Ver Produto
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sessão 3 – Sobre a Marca -->
+    <section class="py-16 px-4 md:px-16 lg:px-24" style="background-color: #000000;">
+        <div class="flex flex-col md:flex-row items-center gap-12">
+            <!-- Imagem dos potes abertos -->
+            <div class="md:w-1/2">
+                <img src="https://placehold.co/600x400/000000/FFD700?text=Potes+abertos" alt="Potes de pomada abertos"
+                    class="w-full h-auto object-cover rounded-lg shadow-lg">
+            </div>
+            <!-- Texto sobre a marca -->
+            <div class="md:w-1/2 text-center md:text-left">
+                <h2 class="text-4xl sm:text-5xl font-oswald text-yellow-500 uppercase mb-4"
+                    style="color: #FFD700;">
+                    Nossa História
+                </h2>
+                <p class="text-white text-base sm:text-lg leading-relaxed">
+                    Inspirados no trabalho artesanal, criamos pomadas naturais à base de cera de abelha,
+                    respeitando a tradição old school e trazendo frescor moderno. Nossa missão é oferecer
+                    produtos de alta qualidade que cuidam da sua barba e cabelo de forma natural.
+                </p>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>
