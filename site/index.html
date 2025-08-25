@@ -23,20 +23,36 @@
             font-family: 'Montserrat', sans-serif;
         }
 
+        nav {
+            
+        }
+
         /* Estilo para a animação do botão */
         .btn-hover-black:hover {
             background-color: #000000;
             color: #FFD700;
             border-color: #FFD700;
         }
+
+        /* Estilo para o hover dos links de navegação */
+        .nav-link:hover {
+            color: #FFD700;
+        }
     </style>
 </head>
 
 <body class="bg-black text-white font-montserrat">
-
+    <nav>
+        <!-- Navegação simples, pode ser expandida conforme necessário -->
+        <ul class="flex justify-end space-x-6 p-4">
+            <li><a href="#" class="text-yellow-500 hover:text-yellow-400" style="color: #FFD700;">Início</a></li>
+            <li><a href="#" class="text-yellow-500 hover:text-yellow-400" style="color: #FFD700;">Produtos</a></li>
+            <li><a href="#" class="text-yellow-500 hover:text-yellow-400" style="color: #FFD700;">Sobre</a></li>
+            <li><a href="#" class="text-yellow-500 hover:text-yellow-400" style="color: #FFD700;">Contato</a></li>
+        </ul>
+    </nav>
     <!-- Hero Banner -->
-    <header class="h-screen flex items-center justify-center text-center px-4"
-        style="background-color: #000000;">
+    <header class="h-screen flex items-center justify-center text-center px-4" style="background-color: #000000;">
         <div class="relative z-10">
             <!-- Logo da abelha, centralizada -->
             <img src="imagens\logoAbelha1.jpeg" alt="Lumberjack Bee Logo" class="mx-auto w-36 mb-6">

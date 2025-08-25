@@ -1,0 +1,242 @@
+                                                            TELAS E MOCKUPS INDIVIDUAIS DE CADA PRODUTO
+
+
+1. Tela Inicial (Home)
+Hero Banner
+2. 
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                        BRIEF PROFISSIONAL DE BRANDING E PRODUTO
+
+1. Logotipo (Rebranding Lumberjack Bee)
+Elementos principais:
+
+Ícone central:
+Abelha dourada ilustrada em estilo gravura old school, porém com linhas mais minimalistas (vetorizadas). Mantém a força artesanal e ganha leveza digital.
+
+Tipografia híbrida:
+
+"Lumberjack" → serif robusta (Playfair Display, Spectral Bold ou Cormorant Garamond Bold).
+
+"Bee" → sans-serif moderna (Montserrat Italic, Raleway SemiBold Italic).
+
+Texto secundário:
+"Pomada Capilar 100% Natural" em sans-serif clean, caixa alta, pequena.
+
+Paleta do logotipo:
+
+Dourado (#D4AF37) para o ícone e destaques.
+
+Preto puro (#000000) para fundo.
+
+Branco (#FFFFFF) para versões invertidas em embalagens claras.
+
+2. Produtos & Imagens E-commerce
+
+Cada variedade terá 3 gramaturas (10g, 30g, 90g).
+Formato: potes redondos metálicos (acabamento fosco) ou vidro âmbar com tampa preta/dourada.
+
+Linhas de produto:
+
+A. Traditional – Mel & Alecrim
+
+Cor da cera: amarelo claro.
+Rótulo: dourado com ícone de colmeia e ramo de alecrim.
+Apelo: clássico, diário.
+
+B. Mentolyc – Melaleuca & Alecrim
+
+Cor da cera: verde pálido.
+Rótulo: dourado + detalhes verdes.
+Apelo: refrescante, pele sensível, efeito calmante.
+
+C. Black Honey – Jojoba, Alecrim & Baunilha de Madagascar
+
+Cor da cera: marrom escuro (luxo).
+Rótulo: preto premium com detalhes dourados.
+Apelo: hidratação profunda + sofisticação.
+
+D. Old School Lumberjack – Gengibre & Lavanda
+
+Cor da cera: laranja suave.
+Rótulo: dourado + ilustração minimalista de machados cruzados.
+Apelo: estimulante e calmante, herbal retrô.
+
+3. Diretrizes de Identidade Visual no Site
+Paleta de cores principal:
+Cor	Hex	Uso
+Dourado Primário	#D4AF37	Botões CTA, detalhes no rótulo, ícones naturais.
+Preto	#000000	Fundo principal, embalagens, hero banners.
+Branco	#FFFFFF	Textos sobre fundos escuros.
+Cinza Escuro	#4D4D4D	Textos secundários, bordas.
+Verde Oliva (acento)	#556B2F	Ingredientes herbais, frescor (usar em Mentolyc).
+Compromissos da marca (em destaque visual no site):
+
+Ícone de folha: “100% natural – sem químicos”.
+
+Ícone de escudo: “Protege e fortalece os fios”.
+
+Ícone de gota: “Hidratação garantida”.
+
+Ícone de abelha: “Base de cera de abelha pura”.
+
+Mockups para e-commerce:
+
+Fundo: preto elegante com reflexo dourado (luxo).
+
+3 ângulos para cada pote:
+
+Frente (rótulo).
+
+Lateral (perfil da embalagem).
+
+Aberto (mostrando textura da pomada).
+
+Exportar em 800x800 px, PNG transparente para integração na loja.
+
+Alt text SEO: "Pomada Lumberjack Bee Black Honey 30g – 100% Natural para cabelo, barba e bigode".
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+                                                        📊FORMULA (base 100 g) – Cremosa & Matte
+
+
+Cera de abelha → 32 g (32%)
+
+Óleo de coco → 18 g (18%)
+
+Óleo de jojoba → 7 g (7%)
+
+Manteiga de karité → 25 g (25%)
+
+Argila branca (caulim) → 8 g (8%)
+
+Lanolina vegetal → 5 g (5%)
+
+Óleos essenciais → 5 g (5%)
+
+👉 Essa versão fica cremosa ao toque, fácil de aplicar, acabamento matte, fixação média-forte sem aspecto oleoso.
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+                                                        📊 TIPOS DO PRODUTO
+
+Disponível: Óleo Essencial de Hortela-Pimenta, Melaleuca, Alecrim, Mel, Baunilha, Gengibre, Patchouli e Vetiver
+
+A. Traditional – Óleo Essencial de Alecrim e Vetiver
+
+B. Mentolyc – Óleo Essencial de Melaleuca & Hortelã-Pimenta
+
+C. Black Honey – Óleo Essencial de Mel & Baunilha
+
+D. Old School – Óleo Essencial de Gengibre & Patchouli
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+                                                        VERSOES DO PRODUTO
+
+
+    ⚖️ VERSAO 10g (2.63$)
+
+Cera de abelha → 3,2 g (0,26$)
+
+Óleo de coco → 1,8 g (0,28$)
+
+Óleo de jojoba → 0,70 g (0,69$)
+
+Manteiga de karité → 2,5 g (0,30)
+
+Argila branca → 0,80 g (0,10)
+
+Lanolina vegetal → 0,50 g
+
+Óleos essenciais → 0,50  (1,00$)
+
+
+
+    ⚖️ VERSAO 30g (7.89$)
+
+Cera de abelha → 9,6 g
+
+Óleo de coco → 5,4 g
+
+Óleo de jojoba → 2,1 g
+
+Manteiga de karité → 7,5 g
+
+Argila branca → 2,4 g
+
+Lanolina vegetal → 1,5 g
+
+Óleos essenciais → 1,5 g
+
+
+
+    ⚖️ VERSAO 90 g (23.67$)
+
+Cera de abelha → 28,8 g
+
+Óleo de coco → 16,2 g
+
+Óleo de jojoba → 6,3 g
+
+Manteiga de karité → 22,5 g
+
+Argila branca → 7,2 g
+
+Lanolina vegetal → 4,5 g
+
+Óleos essenciais → 4,5 g
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+                                                        📊 TEXTOS DE IMPACTO PARA O SITE E PROPAGANDA
+
+
+Óleos naturais como o de alecrim, hortelã-pimenta, rícino e abóbora ajudam a prevenir a calvície ao estimular o fluxo sanguíneo no couro cabeludo, melhorar a saúde dos folículos e inibir o hormônio DHT, que causa a calvície de padrão masculino.
+
+Óleo de Karité:
+Proporciona maciez e brilho, ajudando a reter a umidade, o karité tem a capacidade de nutrir fios secos e quebradiços, mantendo-os sem frizz e alinhados.
+
+Óleo de Melaleuca:
+Cria um ambiente saudável no couro cabeludo, o que favorece o crescimento do cabelo, ao combater condições como caspa e inflamação.
+
+Óleo de Alecrim:
+Melhora a circulação no couro cabeludo e pode bloquear a produção de DHT, sendo especialmente útil para homens. 
+
+Óleo de Lavanda:
+Além de promover o crescimento, ajuda a reduzir o estresse, que é um fator de queda de cabelo. 
+
+Óleo de Coco:
+Nutre o couro cabeludo e os fios, reduzindo a quebra e criando um ambiente saudável para o crescimento. 
+
+Cera de Abelha:
+A cera de abelha hidrata profundamente o couro cabeludo, estimula o crescimento dos fios, alisa, retém a umidade e, ao contrário de produtos químicos como gel ou mousse, não agride os cabelos.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+                                                        📊 OBSERVACOES GERAIS
+
+
+RASCUNHO CUSTOS:
+
+1 gota de oleo essencial = 0.2g
+1kg cera de abelha = 90 reais
+10ml de oleo essencial esta 30-50$
+
+
+CAMPANHAS?
