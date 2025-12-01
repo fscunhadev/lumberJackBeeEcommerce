@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Basic resets and design tokens */
+:root{
+  --color-dark: #0F1A04;
+  --color-honey: #E6A000;
+  --color-wood: #6D4A00;
+  --color-paper: #F7F6F3;
+}
+
+html,body,#__next {
+  height: 100%;
+  background: var(--color-paper);
+  color: #222;
+  font-family: 'Inter', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+h1,h2,h3{
+  font-family: 'Merriweather', serif;
+}
+
+/* small utility tweaks */
+.container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
